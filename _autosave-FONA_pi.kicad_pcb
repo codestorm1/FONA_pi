@@ -981,8 +981,8 @@
     )
   )
 
-  (gr_rect (start 106.045 100.33) (end 118.11 111.76)
-    (stroke (width 0.15) (type default)) (fill none) (layer "F.Mask") (tstamp 7b0937b3-c12b-4ebc-94e7-78e635e1dc98))
+  (gr_rect (start 106.045 100.33) (end 116.205 111.76)
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp 7b0937b3-c12b-4ebc-94e7-78e635e1dc98))
   (gr_line (start 177.8 57.15) (end 177.8 114.3)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 02820514-0ac3-4e6f-aa7f-3c53d18010ff))
   (gr_line (start 172.72 119.38) (end 81.28 119.38)
@@ -1169,17 +1169,4 @@
   (segment (start 103.9876 109.414) (end 107.5436 109.414) (width 0.25) (layer "F.Cu") (net 60) (tstamp f4217d6a-779a-41bc-9b3e-741f38a27414))
   (segment (start 107.5436 109.414) (end 111.1158 109.414) (width 0.508) (layer "F.Cu") (net 60) (tstamp f4bb9832-b7c1-4043-a30e-0e3848109a39))
 
-  (zone (net 0) (net_name "") (layer "F.Mask") (tstamp 9abd4270-362c-4e83-95b0-f10ab7998b14) (hatch edge 0.5)
-    (connect_pads (clearance 0.5))
-    (min_thickness 0.25) (filled_areas_thickness no)
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
-    (polygon
-      (pts
-        (xy 116.84 98.425)
-        (xy 116.84 111.76)
-        (xy 109.22 111.76)
-        (xy 109.22 98.425)
-      )
-    )
-  )
 )
