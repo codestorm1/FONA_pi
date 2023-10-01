@@ -3257,7 +3257,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Bridged") (at 135.89 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 063ded33-9414-4ac9-ad3b-c19356620d6f)
-    (property "Reference" "JP1" (at 135.89 92.71 0)
+    (property "Reference" "G5" (at 135.89 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "J2B" (at 124.46 91.44 0)
@@ -3274,7 +3274,7 @@
     (instances
       (project "FONA_pi"
         (path "/78cf560b-fde9-4d4c-9c9c-e6052c5bcb78"
-          (reference "JP1") (unit 1)
+          (reference "G5") (unit 1)
         )
       )
     )
