@@ -2678,7 +2678,7 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp c8627327-a7df-46a5-b0ca-b22b3ecb49eb))
     (fp_circle (center 0 0) (end 2.35 0)
       (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 338969b1-6b9c-4d60-b754-51eb01fcfaac))
-    (pad "" np_thru_hole circle locked (at 0 0) (size 2.1 2.1) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp e7415ac3-5353-4286-bda0-9a0ca6e9a6e5))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.1 2.1) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp e7415ac3-5353-4286-bda0-9a0ca6e9a6e5))
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" (layer "F.Cu")
@@ -3400,12 +3400,4 @@
   (segment (start 137.414 61.468) (end 139.7762 63.8302) (width 0.25) (layer "F.Cu") (net 67) (tstamp eebbcde3-5914-4c00-96c8-52b0b6071067))
   (segment (start 139.7762 69.5656) (end 139.7762 69.596) (width 0.25) (layer "F.Cu") (net 67) (tstamp f725c47b-72ca-411c-83af-152bbd4b1b0e))
 
-  (group "" (id d47a0ad5-cbc5-43de-a3ae-76011fbd05ca)
-    (members
-      a692de5c-c85e-44c5-a0ab-5b12ece1fd7b
-      d154eb9b-7053-4c9e-8148-e39613915cd3
-      eaf6c681-80b6-48e0-8ea2-33581e9bcf14
-      f05039a6-7531-4982-82b7-4a3840ca68a0
-    )
-  )
 )
