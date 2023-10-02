@@ -1099,9 +1099,9 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
+  (footprint "MountingHole:MountingHole_2.5mm" locked (layer "F.Cu")
     (tstamp 4962d641-2cf3-4d55-8cbf-24d7ecd5fed7)
-    (at 162.07 103.38)
+    (at 162.23 103.38)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "FONA_pi.kicad_sch")
@@ -1126,7 +1126,7 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp af94f863-0cad-4f54-97e7-6139e6964dfe))
     (fp_circle (center 0 0) (end 2.75 0)
       (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 888816a1-c4d3-4a36-a2fb-0bf54672c020))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 6cd46861-c169-440b-84e6-495d67b3bd2d))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 6cd46861-c169-440b-84e6-495d67b3bd2d))
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
@@ -1804,9 +1804,9 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
+  (footprint "MountingHole:MountingHole_2.5mm" locked (layer "F.Cu")
     (tstamp 9d0e37cd-0aeb-421d-849a-339927ebf494)
-    (at 162 61.93)
+    (at 162.23 61.38)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "FONA_pi.kicad_sch")
@@ -1815,7 +1815,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/17fd15fb-1630-49cd-8304-3cef29f3f0b2")
     (attr exclude_from_pos_files)
-    (fp_text reference "H4" (at 0 -3.5) (layer "F.SilkS")
+    (fp_text reference "H4" (at 0.04 5.08) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2d145a5c-e9c6-497f-a545-cc5591768f07)
     )
@@ -1831,7 +1831,7 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 3b434a2b-2fb7-4dbf-abcd-590cdec185f3))
     (fp_circle (center 0 0) (end 2.75 0)
       (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 303da7a7-86a3-4c2c-b2b9-bc95c1c529e8))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp bf21b619-27e1-4373-8dcc-d6c8d9123471))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp bf21b619-27e1-4373-8dcc-d6c8d9123471))
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" (layer "F.Cu")
@@ -2661,9 +2661,9 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
+  (footprint "MountingHole:MountingHole_2.5mm" locked (layer "F.Cu")
     (tstamp ed4588a8-23fa-4964-bb73-5232a6e218e9)
-    (at 81.3 61.85)
+    (at 81.23 61.38)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "FONA_pi.kicad_sch")
@@ -2672,7 +2672,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/20f98c36-8777-4063-bb46-4cc5a052e8af")
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -3.5) (layer "F.SilkS")
+    (fp_text reference "H1" (at 0.06 3.88) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2b4517b2-325d-4cd5-840f-5e54506c2894)
     )
@@ -2688,7 +2688,7 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp f258e111-4ea6-45bc-98ee-70729a7604cb))
     (fp_circle (center 0 0) (end 2.75 0)
       (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 3df465bb-373f-404f-ae43-aa3173416ee8))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 5ce89c62-db44-4038-83c8-94f77e0c289b))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 5ce89c62-db44-4038-83c8-94f77e0c289b))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (layer "F.Cu")
@@ -2915,9 +2915,9 @@
     )
   )
 
-  (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
+  (footprint "MountingHole:MountingHole_2.5mm" locked (layer "F.Cu")
     (tstamp fd68b7aa-d73b-428e-bb9b-6208a430d623)
-    (at 81.06 103.61)
+    (at 81.23 103.38)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "FONA_pi.kicad_sch")
@@ -2942,7 +2942,7 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 89dd274e-ff2e-407f-a499-a267dbc18384))
     (fp_circle (center 0 0) (end 2.75 0)
       (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 930bd672-7d8b-4ce4-ac08-95a200e78d3a))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp ffb894e2-2454-448a-acdf-c4038293970d))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp ffb894e2-2454-448a-acdf-c4038293970d))
   )
 
   (footprint "Connector_Wago:Wago_734-134_1x04_P3.50mm_Vertical" (layer "F.Cu")
@@ -4115,6 +4115,9 @@
   (gr_text "GPIO 17" (at 94.5896 96.2914) (layer "F.SilkS") (tstamp 10be81d5-de12-4e0b-8498-c86215f4720d)
     (effects (font (size 0.89408 0.6858) (thickness 0.12192)) (justify left))
   )
+  (gr_text "JR" (at 142.76 103.46) (layer "F.SilkS") (tstamp 129a48da-0fbd-4cf6-95e5-59e742438c14)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
   (gr_text "GPIO 20\nPCM DIN" (at 106.0196 64.9224) (layer "F.SilkS") (tstamp 1741feb7-bf43-487f-a6bd-a64c981e33db)
     (effects (font (size 0.8001 0.6096) (thickness 0.12192)) (justify left bottom))
   )
@@ -4637,4 +4640,12 @@
   (segment (start 125.3794 97.7334) (end 126.7428 96.37) (width 0.35) (layer "B.Cu") (net 83) (tstamp d3d0023d-b6ba-469a-8251-137528916213))
   (segment (start 122.2266 100.1834) (end 122.2266 99.383188) (width 0.35) (layer "B.Cu") (net 83) (tstamp ea506b74-2cbd-453a-ba54-acbfad89101c))
 
+  (group "" locked (id 890baa0c-9b60-44dc-a00e-e8f7341add49)
+    (members
+      4962d641-2cf3-4d55-8cbf-24d7ecd5fed7
+      9d0e37cd-0aeb-421d-849a-339927ebf494
+      ed4588a8-23fa-4964-bb73-5232a6e218e9
+      fd68b7aa-d73b-428e-bb9b-6208a430d623
+    )
+  )
 )
