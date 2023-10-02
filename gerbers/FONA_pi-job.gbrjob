@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.5-0"
     },
-    "CreationDate": "2023-10-01T14:36:37-07:00"
+    "CreationDate": "2023-10-01T14:43:52-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "FONA_pi-F_Cu.gbr",
+      "Path": "FONA_pi-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-B_Cu.gbr",
+      "Path": "FONA_pi-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-F_Paste.gbr",
+      "Path": "FONA_pi-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-B_Paste.gbr",
+      "Path": "FONA_pi-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-F_Silkscreen.gbr",
+      "Path": "FONA_pi-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-B_Silkscreen.gbr",
+      "Path": "FONA_pi-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FONA_pi-F_Mask.gbr",
+      "Path": "FONA_pi-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "FONA_pi-B_Mask.gbr",
+      "Path": "FONA_pi-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "FONA_pi-Edge_Cuts.gbr",
+      "Path": "FONA_pi-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

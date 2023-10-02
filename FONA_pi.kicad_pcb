@@ -56,7 +56,7 @@
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
-      (usegerberextensions false)
+      (usegerberextensions true)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
@@ -1089,7 +1089,7 @@
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at -0.0508 5.3848) (layer "F.SilkS")
+    (fp_text reference "REF**" (at -0.0508 5.3848) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 46987475-4339-4d42-a344-bd86f2a95943)
     )
@@ -1199,7 +1199,7 @@
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at -0.1016 -3.6068) (layer "F.SilkS")
+    (fp_text reference "REF**" (at -0.1016 -3.6068) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08c569b5-738b-4f8b-8f22-99606c6c1ef0)
     )
@@ -1562,7 +1562,7 @@
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0.1016 5.842) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0.1016 5.842) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 85e7099f-5de2-4281-ba6d-de0b8d1c1312)
     )
@@ -2151,7 +2151,7 @@
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f460392c-5a12-4b0f-b2ee-99e6c4b64a18)
     )
