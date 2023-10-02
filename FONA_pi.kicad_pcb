@@ -2981,6 +2981,8 @@
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp 5d60af74-8fc7-408a-97d5-5c975dc57812))
   (gr_rect (start 111.8108 93.1672) (end 120.3452 94.5388)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp 79cdd66b-bc88-4776-a7f8-ffbd2d4f86ac))
+  (gr_rect (start 127.3678 112.11) (end 139.7122 113.8626)
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp 87ab3e93-aa50-4fd7-94c7-afee84c8ae7d))
   (gr_rect (start 111.9886 90.6272) (end 120.6754 92.2782)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.Mask") (tstamp 8908b346-94b5-41dd-a9d3-fdafb5d2553a))
   (gr_rect (start 123.4948 95.5548) (end 132.3594 110.0582)
@@ -3013,7 +3015,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 9a5a2ecd-8034-4708-bb68-d2a0017b64c6))
   (gr_line (start 81.026001 116.703971) (end 164.310892 116.729372)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f47a3982-50a9-44f6-beff-ae195a76eacb))
-  (image (at 95.011 114.4242) (layer "F.SilkS") (scale 0.318568)
+  (image (at 89.15 114.6) (layer "F.SilkS") (scale 0.28174)
     (data
       iVBORw0KGgoAAAANSUhEUgAAAOoAAACgCAYAAAACV/BEAAAABHNCSVQICAgIfAhkiAAAIABJREFU
       eJzsvWuQZdd1Hvattfbe55x7+3b3vGcADIABSAIkHiQIviQ+BIUUKYkSbSqCpDiOHElRlarspKRU
@@ -3520,7 +3522,7 @@
       RU5ErkJggg==
     )
   )
-  (image (at 89.15 114.6) (layer "F.SilkS") (scale 0.28174)
+  (image (at 95.011 114.4242) (layer "F.SilkS") (scale 0.318568)
     (data
       iVBORw0KGgoAAAANSUhEUgAAAOoAAACgCAYAAAACV/BEAAAABHNCSVQICAgIfAhkiAAAIABJREFU
       eJzsvWuQZdd1Hvattfbe55x7+3b3vGcADIABSAIkHiQIviQ+BIUUKYkSbSqCpDiOHElRlarspKRU
@@ -4569,12 +4571,4 @@
   (segment (start 137.2682 79.915) (end 143.4592 86.106) (width 0.25) (layer "F.Cu") (net 67) (tstamp a77cc738-e81c-41a4-9d90-e52f87a8f973))
   (segment (start 121.0376 75.637099) (end 121.0376 77.5152) (width 0.25) (layer "F.Cu") (net 67) (tstamp e9a04f05-330d-40d1-bdff-425e6ef56e96))
 
-  (group "" (id 28e2c4a3-6a11-4640-9a8d-0be799e9634c)
-    (members
-      5f4713a5-587e-448d-8cbd-0c28c70d9189
-      61c45d73-5b10-46b4-aac7-b92fc013b9e7
-      87b97632-a4bd-424f-b38d-36aae58197f4
-      bb6334c8-253b-4ef1-a0b5-e79c5393b164
-    )
-  )
 )
