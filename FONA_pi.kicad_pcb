@@ -4183,7 +4183,7 @@
   (gr_text "Gnd" (at 122.5296 80.0608 90) (layer "F.SilkS") (tstamp 78f898fc-2ace-4656-a0a8-ec29a99a4048)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "FONA-Pi Rev 0.1" (at 98.23 114.79) (layer "F.SilkS") (tstamp 7ee1e828-6143-469f-b074-c7a01991c901)
+  (gr_text "FONA-Pi Rev 0.1.1" (at 98.23 114.79) (layer "F.SilkS") (tstamp 7ee1e828-6143-469f-b074-c7a01991c901)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "Vio" (at 149.666476 68.707) (layer "F.SilkS") (tstamp 7f7591e6-8eec-418a-9d6a-246a26183d04)
